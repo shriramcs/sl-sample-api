@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "ss": "node server.js",
+    "sl": "node server-local-storage.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
